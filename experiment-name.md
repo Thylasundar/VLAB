@@ -1,1 +1,1 @@
-##Amplitude Modulation and Demodulation 
+Amplitude Modulation and Demodulation 
